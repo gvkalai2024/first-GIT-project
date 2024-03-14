@@ -1,0 +1,14 @@
+{
+	"name": "Kalaiselvi",
+	"age": 25,
+	"ststus": true,
+	"address": {
+		"city": "chennai",
+		"state": "Tamil Nadu"
+	},
+	"courses": [
+		"Java",
+		"Selenium",
+		"Maven"
+	]
+}
